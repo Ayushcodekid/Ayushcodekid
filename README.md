@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Projects app<br><br>🌱 I’m currently learning Advanced AWS Services along with AI<br><br>👯 I’m looking to collaborate on Full stack projects<br><br>👨‍💻 All of my projects are available at https://github.com/Ayushcodekid<br><br>💬 Ask me about JavaScript, React, Express.js, Node.js, AWS, PostgreSQL, Mongodb.<br><br>📫 How to reach me ayush0101works@gmail.com
+🔭 I’m currently working on AI Projects <br><br>🌱 I’m currently learning Advanced AWS Services along with AI<br><br>👯 I’m looking to collaborate on Full stack projects<br><br>👨‍💻 All of my projects are available at https://github.com/Ayushcodekid<br><br>💬 Ask me about JavaScript, React, Express.js, Node.js, AWS, PostgreSQL, Mongodb.<br><br>📫 How to reach me ayush0101works@gmail.com
 
 
 ## 🌐 Socials:
